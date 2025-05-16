@@ -1,0 +1,2 @@
+Prefix plugins/ZeroVar/example/
+Plugin ZeroVar inputfile parameters.txt outputfile none
